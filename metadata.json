@@ -1,0 +1,6 @@
+{
+  "name": "Mundo Aberto",
+  "description": "Open-world AI town agent simulation inspired by Generative Agents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
